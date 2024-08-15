@@ -4,6 +4,7 @@
     Basic annotation for variables.
 '''
 
+
 def add(a: float, b: float) -> float:
     '''
         Return sum of two floats.
