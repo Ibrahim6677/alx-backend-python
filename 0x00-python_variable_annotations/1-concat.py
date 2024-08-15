@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-"""Basic annotations concat """
+"""Basic annotations concat this """
 
 def concat(srt1: str, str2: str) -> str:
     """Return sum of two string"""
